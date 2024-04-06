@@ -1,8 +1,0 @@
-dist/
-node_modules/
-example-app/
-.parcel-cache/
-.vscode/
-.env
-.DS_Store
-coverage/
